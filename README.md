@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @syam311
 - 👀 I’m interested in ...new technology's 
 - 🌱 I’m currently learning ...node.js(frontend technology's completed)
-- 💞️ I’m looking to collaborate on ...Front-end developer 
+- 💞️ I’m looking to collaborate on ...Software developer 
 - 📫 How to reach me ...syam335577@gmail.com
 - 😄 Pronouns: ...syam
 - ⚡ Fun fact: ...
