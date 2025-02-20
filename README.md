@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...node.js(frontend technology's completed)
 - 💞️ I’m looking to collaborate on ...Software developer 
 - 📫 How to reach me ...syam335577@gmail.com
-- 😄 Pronouns: ...syam
+- 😄 Pronouns: .....
 - ⚡ Fun fact: ...
 
 <!---
