@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @syam311
+- 👋 Hi, I’m syam
 - 👀 I’m interested in ...new technology's 
 - 🌱 I’m currently learning ...node.js(frontend technology's completed)
 - 💞️ I’m looking to collaborate on ...Software developer 
